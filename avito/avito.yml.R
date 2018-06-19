@@ -1,0 +1,16 @@
+name: avito
+dependencies:
+- python>=3.6
+- bokeh=0.12.5
+- networkx=1.11
+- keras=2.1.2=py36_0
+- nltk=3.2.5
+- numpy=1.12.1
+- scikit-learn=0.19.1
+- spacy=2.0.5
+- tensorflow=1.1.0
+- pandas=0.22.0
+- polyglot
+- pip:
+        - wordcloud
+        - ipykernel
